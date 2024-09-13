@@ -1,8 +1,6 @@
 # Artificial Intelligence 🤖🧠
 
-**Artificial Intelligence - Sharif University of Technology**
-
-Solutions to practical assignents of Artificial Intelligence course (CE-417) at Sharif University of Technology
+**Solutions to practical assignents of Artificial Intelligence course (CE-417) at Sharif University of Technology**
 
 The topics of assignments are:
 
