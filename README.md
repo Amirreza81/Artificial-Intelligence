@@ -7,7 +7,8 @@ This repository contains solutions for the practical assignments given in the AI
 ## Topics of Assignments
 
 * ### **HW1**:  
-    * ### **A\***: Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
+    * ### **A\***:
+      Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
     
       ![A* Algorithm GIF](a_star_algorithm.gif)
     
@@ -22,7 +23,8 @@ This repository contains solutions for the practical assignments given in the AI
       **Comparison with DFS**:  
       The A* algorithm outperforms DFS in terms of finding shorter paths, thanks to its heuristic function, though it explores more states.
 
-    * ### **Simulated Annealing**: Demonstrates optimization using the Simulated Annealing algorithm for solving the Knapsack problem.
+    * ### **Simulated Annealing**:
+      Demonstrates optimization using the Simulated Annealing algorithm for solving the Knapsack problem.
     
       **Problem Description**:
       The Knapsack problem involves selecting a subset of items with specific weights and values to maximize the total value without exceeding a given weight limit.
