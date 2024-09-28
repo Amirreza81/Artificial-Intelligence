@@ -6,8 +6,8 @@ This repository contains solutions for the practical assignments given in the AI
 
 ## Topics of Assignments
 
-* ###**HW1**:  
-    * **A\***: Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
+* ### **HW1**:  
+    * ### **A\***: Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
     
       ![A* Algorithm GIF](a_star_algorithm.gif)
     
@@ -22,7 +22,7 @@ This repository contains solutions for the practical assignments given in the AI
       **Comparison with DFS**:  
       The A* algorithm outperforms DFS in terms of finding shorter paths, thanks to its heuristic function, though it explores more states.
 
-    * **Simulated Annealing**: Demonstrates optimization using the Simulated Annealing algorithm for solving the Knapsack problem.
+    * ### **Simulated Annealing**: Demonstrates optimization using the Simulated Annealing algorithm for solving the Knapsack problem.
     
       **Problem Description**:
       The Knapsack problem involves selecting a subset of items with specific weights and values to maximize the total value without exceeding a given weight limit.
@@ -33,18 +33,18 @@ This repository contains solutions for the practical assignments given in the AI
       **Results**:  
       The algorithm finds an average best solution with a value of approximately 2595.05 over multiple runs, demonstrating its effectiveness in solving the Knapsack problem.
 
-* **HW2**:  
+* ### **HW2**:  
     * **Cryptarithmetic Puzzle**: Solving word puzzles as constraint satisfaction problems.
     * **Adversarial Search**: Minimax algorithm for game-playing agents with alpha-beta pruning.
     
-* **HW3**:  
+* ### **HW3**:  
     * **Q-Tabular**: Implementation of Q-learning with tabular updates for reinforcement learning.
     * **RL Chat**: A simple chat system utilizing reinforcement learning for decision-making.
     
-* **HW4**:  
+* ### **HW4**:  
     * **Bayesian Networks**: Building and inference on Bayesian networks for probabilistic reasoning.
     
-* **HW5**:  
+* ### **HW5**:  
     * **Decision Tree**: Implementing decision tree algorithms for classification tasks.
     * **Logistic Regression**: Logistic regression for binary classification.
 
