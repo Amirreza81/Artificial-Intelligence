@@ -6,7 +6,7 @@ This repository contains solutions for the practical assignments given in the AI
 
 ## Topics of Assignments
 
-* **HW1**:  
+* ###**HW1**:  
     * **A\***: Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
     
       ![A* Algorithm GIF](a_star_algorithm.gif)
