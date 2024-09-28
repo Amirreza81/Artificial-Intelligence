@@ -9,6 +9,8 @@ This repository contains solutions for the practical assignments given in the AI
 * **HW1**:  
     * **A\***: Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
     
+      ![A* Algorithm GIF](a_star_algorithm.gif)
+    
       **Problem Description**:
       The elevator needs to move students and professors between two floors with the following constraints:
       - No floor should have more students than professors (if professors are present).
@@ -27,7 +29,7 @@ This repository contains solutions for the practical assignments given in the AI
 
       **Approach**:
       Simulated Annealing is a probabilistic algorithm that explores the solution space by accepting worse solutions with decreasing probability over time (as the temperature cools). This helps escape local optima and leads to a near-optimal solution.
-      
+
       **Results**:  
       The algorithm finds an average best solution with a value of approximately 2595.05 over multiple runs, demonstrating its effectiveness in solving the Knapsack problem.
 
