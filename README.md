@@ -32,6 +32,8 @@ This repository contains solutions for the practical assignments given in the AI
   **Comparison with DFS**:  
       The A* algorithm outperforms DFS in terms of finding shorter paths, thanks to its heuristic function, though it explores more states.
 
+  See this [file](https://github.com/Amirreza81/Artificial-Intelligence/blob/main/A-star/A_star.ipynb) for more details.
+
 * ### **Simulated_Annealing**:
   Demonstrates optimization using the Simulated Annealing algorithm for solving the Knapsack problem.
     
