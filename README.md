@@ -46,7 +46,13 @@ This repository contains solutions for the practical assignments given in the AI
       The algorithm finds an average best solution with a value of approximately 2595.05 over multiple runs, demonstrating its effectiveness in solving the Knapsack problem.
 
 * ### **Cryptarithmetic_Puzzle**:  
-    Solving word puzzles as constraint satisfaction problems.
+    The Cryptarithmetic Puzzle is a puzzle where the digits of some numbers are replaced with letters to make a mathematical equation. Each letter represents a unique digit from 0 to 9 (in case of base 10). The puzzle has the following constraints:
+
+    - Each letter can be replaced by a digit from 0 to 9 (in case of base 10), but no digit can be used twice.
+    - Each letter must be replaced by the same digit throughout the puzzle.
+    - The leftmost digit of each number cannot be zero.
+
+    ![Cryptarithmetic Puzzle](Cryptarithmetic%20Puzzle/example.png)
     
 * ### **Adversarial_Search**:  
     Minimax algorithm for game-playing agents with alpha-beta pruning.
