@@ -53,6 +53,7 @@ This repository contains solutions for the practical assignments given in the AI
     - The leftmost digit of each number cannot be zero.
 
     ![Cryptarithmetic Puzzle](Cryptarithmetic%20Puzzle/example.png = 50*50)
+    <img src="Cryptarithmetic Puzzle/example.png" alt="puzzle" width="200"/>
     
 * ### **Adversarial_Search**:  
     Minimax algorithm for game-playing agents with alpha-beta pruning.
