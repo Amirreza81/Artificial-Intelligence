@@ -72,11 +72,6 @@ This repository contains solutions for the practical assignments given in the AI
 * ### **Logistic_Regression**:
     Logistic regression for binary classification.  
 
-## Installation & Usage 💻
-
-### Prerequisites
-- Python 3.x
-
 ## Instructor ✍
 [Professor Mohammad Hossein Rohban](https://www.linkedin.com/in/mohammad-hossein-rohban-75567677/?originalSubdomain=ir)
 
