@@ -4,7 +4,16 @@
 
 This repository contains solutions for the practical assignments given in the AI course, covering various essential topics in artificial intelligence. Each assignment implements a specific AI technique or algorithm to solve real-world problems, showcasing the theoretical concepts in action.
 
-## Topics of Assignments
+## Table of Contents
+> - [A Star](#A\*)
+> - [Simulated Annealing](#Simulated_Annealing)
+> - [Cryptarithmetic Puzzle](#Cryptarithmetic_Puzzle)
+> - [Adversarial Search](#Adversarial_Search)
+> - [Q_Tabular](#Q_Tabular)
+> - [RL_Chat](#RL_Chat)
+> - [Bayesian Networks](#Bayesian_Networks)
+> - [Decision Tree](#Decision_Tree)
+> - [Logistic Regression](#Logistic_Regression)
 
 * ### **A\***:
   Implements the A* search algorithm to solve an elevator scheduling problem where students and professors must be transported between two floors, following specific constraints.
@@ -23,7 +32,7 @@ This repository contains solutions for the practical assignments given in the AI
   **Comparison with DFS**:  
       The A* algorithm outperforms DFS in terms of finding shorter paths, thanks to its heuristic function, though it explores more states.
 
-* ### **Simulated Annealing**:
+* ### **Simulated_Annealing**:
   Demonstrates optimization using the Simulated Annealing algorithm for solving the Knapsack problem.
     
   **Problem Description**:
@@ -36,20 +45,26 @@ This repository contains solutions for the practical assignments given in the AI
   **Results**:  
       The algorithm finds an average best solution with a value of approximately 2595.05 over multiple runs, demonstrating its effectiveness in solving the Knapsack problem.
 
-* ### **HW2**:  
-    * **Cryptarithmetic Puzzle**: Solving word puzzles as constraint satisfaction problems.
-    * **Adversarial Search**: Minimax algorithm for game-playing agents with alpha-beta pruning.
+* ### **Cryptarithmetic_Puzzle**:  
+    Solving word puzzles as constraint satisfaction problems.
     
-* ### **HW3**:  
-    * **Q-Tabular**: Implementation of Q-learning with tabular updates for reinforcement learning.
-    * **RL Chat**: A simple chat system utilizing reinforcement learning for decision-making.
+* ### **Adversarial_Search**:  
+    Minimax algorithm for game-playing agents with alpha-beta pruning.
     
-* ### **HW4**:  
-    * **Bayesian Networks**: Building and inference on Bayesian networks for probabilistic reasoning.
+* ### **Q_Tabular**:  
+    Implementation of Q-learning with tabular updates for reinforcement learning.
     
-* ### **HW5**:  
-    * **Decision Tree**: Implementing decision tree algorithms for classification tasks.
-    * **Logistic Regression**: Logistic regression for binary classification.
+* ### **RL_Chat**:  
+    A simple chat system utilizing reinforcement learning for decision-making.
+
+* ### **Bayesian_Networks**:
+    Building and inference on Bayesian networks for probabilistic reasoning.
+
+* ### **Decision_Tree**:
+    Implementing decision tree algorithms for classification tasks.
+
+* ### **Logistic_Regression**:
+    Logistic regression for binary classification.  
 
 ## Installation & Usage 💻
 
