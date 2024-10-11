@@ -52,7 +52,7 @@ This repository contains solutions for the practical assignments given in the AI
     - Each letter must be replaced by the same digit throughout the puzzle.
     - The leftmost digit of each number cannot be zero.
 
-    ![Cryptarithmetic Puzzle](Cryptarithmetic%20Puzzle/example.png)
+    ![Cryptarithmetic Puzzle](Cryptarithmetic%20Puzzle/example.png = 50*50)
     
 * ### **Adversarial_Search**:  
     Minimax algorithm for game-playing agents with alpha-beta pruning.
