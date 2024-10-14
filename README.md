@@ -47,6 +47,8 @@ This repository contains solutions for the practical assignments given in the AI
   **Results**:  
       The algorithm finds an average best solution with a value of approximately 2595.05 over multiple runs, demonstrating its effectiveness in solving the Knapsack problem.
 
+See this [file](https://github.com/Amirreza81/Artificial-Intelligence/blob/main/Simulated%20Annealing/Simulated_Annealing.ipynb) for more details.
+
 * ### **Cryptarithmetic_Puzzle**:  
     The Cryptarithmetic Puzzle is a puzzle where the digits of some numbers are replaced with letters to make a mathematical equation. Each letter represents a unique digit from 0 to 9 (in case of base 10). The puzzle has the following constraints:
 
