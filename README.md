@@ -74,7 +74,37 @@ This repository contains solutions for the practical assignments given in the AI
     Implementing decision tree algorithms for classification tasks.
 
 * ### **Logistic_Regression**:
-    Logistic regression for binary classification.  
+
+    In this notebook I implemented Logistic Regression from scratch. First I implemented all the needed function in order to use Logistic Regression. After that I tested my implementation on a dummy dataset and visualize the model boundary. Then I did the same on a tweet sentiment classification dataset.
+
+    **Steps**:
+        - Creating Dummy Dataset
+        - Implementing model
+        - Implementing training
+        - Training on a Tweet Sentiment Analysis Dataset (Ungraded)
+
+    **First dataset**:
+
+    ![Dataset](./Logistic%20Regression/images/dataset.png)
+    ![Result](./Logistic%20Regression/images/resultLR.png)
+    
+    **Second dataset**:
+
+    ![Dataset](./Logistic%20Regression/images/ds2.png)
+    ![Result](./Logistic%20Regression/images/resultLR2.png)
+
+    **Tweet Sentiment Analysis Dataset**:
+
+    In this part I used the logistic regression model I implemented to classify whether a *tweet* contains a postivie or negative sentiment.
+
+    The accuracy:
+
+    ![Acc](./Logistic%20Regression/images/acc.png)
+
+    The result:
+    
+    ![res](./Logistic%20Regression/images/res.png)
+
 
 ## Instructor ✍
 [Professor Mohammad Hossein Rohban](https://www.linkedin.com/in/mohammad-hossein-rohban-75567677/?originalSubdomain=ir)
