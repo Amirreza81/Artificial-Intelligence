@@ -102,12 +102,12 @@ This repository contains solutions for the practical assignments given in the AI
     ![Acc](./Logistic%20Regression/images/acc.png)
 
     The result:
-    
+
     ![res](./Logistic%20Regression/images/res.png)
 
 
 ## Instructor ✍
-[Professor Mohammad Hossein Rohban](https://www.linkedin.com/in/mohammad-hossein-rohban-75567677/?originalSubdomain=ir)
+[Professor Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en)
 
 ## Contribution 👥
 Feel free to fork this repository, submit pull requests, or raise issues if you find any bugs or have suggestions for improvements.
